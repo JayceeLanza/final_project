@@ -25,3 +25,5 @@
 >3. Light_Level:Amount of light each dish was exposed to
 >4. SporophytesperFemale: The number of sporophytes present in one field of view divided by the number of females per feild of view
 >5. Days_50_Eggs: The number of days it took until at least 50% of females had produced an egg
+
+#### The file Final.py contains two functions, shapiro_func and histograms used in the Jupyter Notebook
